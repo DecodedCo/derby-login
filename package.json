@@ -38,6 +38,8 @@
   "dist": {
     "shasum": "50ae595c1b99e28ad13f10f1623dd5ead9d14581"
   },
-  "_from": "https://github.com/DecodedCo/derby-login/tarball/4909b356756c029674baf295750485535d97b6cb",
-  "_resolved": "https://github.com/DecodedCo/derby-login/tarball/4909b356756c029674baf295750485535d97b6cb"
+  "_from": "https://github.com/DecodedCo/derby-login/tarball/81d6364d9a90bf07704d6b0ffc9b5eb247b97dc6",
+  "_resolved": "https://github.com/DecodedCo/derby-login/tarball/81d6364d9a90bf07704d6b0ffc9b5eb247b97dc6",
+  "homepage": "https://github.com/derbyparty/derby-login",
+  "_shasum": "ff26c51c271659f694c28a8912bc54f6cbb76ce5"
 }
